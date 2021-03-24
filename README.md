@@ -1,3 +1,5 @@
+![alt text](https://github.com/ericqueirozc/CalculadoraDeOrcamento/blob/master/Calculadora_or%C3%A7amento.png?raw=true)
+
 # BudgetCalculator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
